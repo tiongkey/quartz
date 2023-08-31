@@ -12,8 +12,8 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       typography: {
-        header: "Manrope",
-        body: "Bitter",
+        header: "Racing Sans One", //Manrope, Shrikhand, Racing Sans One
+        body: "IBM Plex Mono",
         code: "IBM Plex Mono",
       },
       colors: {
