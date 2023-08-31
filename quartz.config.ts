@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       typography: {
-        header: "Racing Sans One", //Manrope, Shrikhand, Racing Sans One
+        header: "IBM Plex Mono", //Manrope, Shrikhand, Racing Sans One
         body: "IBM Plex Mono",
         code: "IBM Plex Mono",
       },
