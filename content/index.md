@@ -2,15 +2,18 @@
 title: A Piece of My Mind
 ---
 
-I'm Gio. This is where I dump some of my best notes and thinking.
-## Now
-Here's what's up with me...
-- Getting married in December to the love of my life Bea ❤️‍🔥
-- I'm around a year into my freelancing. It was a career shift coming from product and growth work at tech startups, to working with YouTube Creators on creative production and course management
-- Building [anycase.ai](https://anycase.ai), a legal AI assistant for Philippine lawyers. I'm working on this with 2 friends and we're pumped to see it change how legal professionals work
-- Been going to the driving range, trying to learn golf. It's been fun but I wish it was enough to keep my body fit
-- Diet could be better, trying to go to the grocery more consistently for home-cooked meals
+I'm Gio. I started writing notes to help me think. Storing ideas and things I've been learning & doing is my bag of tricks. It gives me a sense comfort. Control.
+
+Then I realized that, hey -- If I store enough of the good stuff, the things that truly matter, the learnings and values that lead to a good life ... I can pass it all down to my kids in the future. My mind as an heirloom 😄
+
+But that'll be my very *very* personal notes. On this site I'll mostly just share what I've been working on and thinking about (that can't fit in a tweet)
+
+## Getting around
+This site is what's called a [[digital garden]], a way of publishing personal knowledge that's constantly evolving. Read more about it [here]([[digital garden]]) if you want. 
+
+**The gist:** you'll see a lot of links; just tap/click it if it's interesting. Look at my Recent Notes for a stream of content that's always showing the most recently modified at the top.
 
 ## Maps of Content
-
-[[hello-world]]
+- [[Now]] : See what I'm up to
+- [[ai]] : A collection of highlights and ideas
+- [[health]] : Notes on staying, you guessed it, healthy
