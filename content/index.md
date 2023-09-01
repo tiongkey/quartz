@@ -9,7 +9,7 @@ Then I realized that, hey -- If I store enough of the good stuff, the things tha
 But that'll be my very *very* personal notes. On this site I'll mostly just share what I've been working on and thinking about (that can't fit in a tweet)
 
 ## Getting around
-This site is what's called a [[digital garden]], a way of publishing personal knowledge that's constantly evolving. Read more about it [here]([[digital garden]]) if you want. 
+This site is what's called a [[digital garden]], a way of publishing personal knowledge that's constantly evolving. Read more about it [[digital garden|here]] if you want. 
 
 **The gist:** you'll see a lot of links; just tap/click it if it's interesting. Look at my Recent Notes for a stream of content that's always showing the most recently modified at the top.
 
