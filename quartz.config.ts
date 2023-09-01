@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "IBM Plex Mono", //Manrope, Shrikhand, Racing Sans One
-        body: "Montserrat",
+        body: "Inter",
         code: "IBM Plex Mono",
       },
       colors: {
