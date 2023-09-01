@@ -1,5 +1,5 @@
 ---
-title: A Piece of My Mind
+title: Piece of Mind
 ---
 
 I'm Gio. I started writing notes to help me think. Storing ideas and things I've been learning & doing is my bag of tricks. It gives me a sense comfort. Control.
