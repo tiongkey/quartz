@@ -2,13 +2,15 @@
 title: A Fraction of My Second Brain
 ---
 
-## Intro
+I'm Gio. This is where I dump some of my best notes and thinking.
+## Now
+Here's what's up with me...
+- Getting married in December to the love of my life Bea ❤️‍🔥
+- I'm around a year into my freelancing. It was a career shift coming from product and growth work at tech startups, to working with YouTube Creators on creative production and course management
+- Building [anycase.ai](https://anycase.ai), a legal AI assistant for Philippine lawyers. I'm working on this with 2 friends and we're pumped to see it change how legal professionals work
+- Been going to the driving range, trying to learn golf. It's been fun but I wish it was enough to keep my body fit
+- Diet could be better, trying to go to the grocery more consistently for home-cooked meals
 
-I'm Gio. This is where I dump some of my best thinking in the form of notes.
-
-The habit of notetaking is probably the most impactful thing I got from school. I was using pen and paper then like any other 90s kid - and then smartphones happened. Like many people, I got introduced to digital notes through the Evernote app. I remember using that on my HTC Desire Z, typing away random ideas and thoughts.
-
-Anyways, the plan is to eventually pass my notes down to my kids.
 ## Maps of Content
 
 [[hello-world]]
