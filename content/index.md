@@ -1,5 +1,5 @@
 ---
-title: A Fraction of My Second Brain
+title: A Piece of My Mind
 ---
 
 I'm Gio. This is where I dump some of my best notes and thinking.
